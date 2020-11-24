@@ -1,1 +1,1 @@
-# data_viz_room1.github.io
+# Data Visualization Project (Room1)
